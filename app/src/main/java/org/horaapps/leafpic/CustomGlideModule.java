@@ -9,6 +9,8 @@ import com.bumptech.glide.Registry;
 /**
  * Created by dnld on 10/03/16.
  */
+/**
+ * modified by gemy*/
 
 public class CustomGlideModule implements com.bumptech.glide.module.GlideModule {
 
